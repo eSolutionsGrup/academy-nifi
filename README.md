@@ -1,7 +1,7 @@
 # Data ingest using Apache NiFi
 An introductory hands-on class to learn basic concepts of data flow, which will allow you to collect and transport data from numerous sources including real-time events, data from external sources, structured and unstructured data.
 
-Use Cases:
+### Use Cases:
 * ingest data from database
     - table dump
     - query dump 
@@ -22,8 +22,7 @@ Use Cases:
 
 * Java 1.8+
 * Maven 3+
-* Docker
-* Docker-compose
+* Docker & Docker Compose
 
 ## Start the local environment 
 
