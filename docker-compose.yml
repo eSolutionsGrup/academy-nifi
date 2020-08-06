@@ -49,6 +49,8 @@ services:
     hostname: mysql
     ports:
       - "3306:3306"
+    volumes:
+      - "./data/mysql/:/content/:rw"       
     environment:
       MYSQL_ROOT_PASSWORD: debezium
       MYSQL_USER: mysqluser

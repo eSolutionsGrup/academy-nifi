@@ -40,3 +40,23 @@ docker-compose up -d
 ```
 $ docker exec -it ${docker_instance_name} bash
 ```
+
+## MySQL CDC only for inventory database
+```
+$ echo 'binlog_do_db = inventory' >> /etc/mysql/conf.d/mysql.cnf
+```
+Note: exit from mysql docker instance and restart it 
+```
+$ docker-compose restart mysql 
+```
+
+## MySQL restore retail_db
+```
+$ docker exec -it ${mysql_docker_instance_name} bash
+
+$ mysql -uroot -pdebezium
+mysql> create database retail_db;
+mysql> use retail_db;
+mysql> source /content/retail_db.sql
+
+```
