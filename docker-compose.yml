@@ -38,3 +38,14 @@ services:
     hostname: nifi
     ports:
       - "8080:8080"
+    volumes:
+      - "./data/nifi/:/content/:rw"  
+  mysql:
+    image: debezium/example-mysql:1.2
+    hostname: mysql
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: debezium
+      MYSQL_USER: mysqluser
+      MYSQL_PASSWORD: mysqlpw

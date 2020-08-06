@@ -6,7 +6,7 @@ An introductory hands-on class to learn basic concepts of data flow, which will 
     - table dump
     - query dump 
     - incremental
-    - change data chapture
+    - change data capture
 * ingest data from external sources 
     - files
     - REST APIs
@@ -34,3 +34,9 @@ cd ./academy-nifi/
 docker-compose up -d
 ```
 
+
+## Container shell access
+
+```
+$ docker exec -it ${docker_instance_name} bash
+```
