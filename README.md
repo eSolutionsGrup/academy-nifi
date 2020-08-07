@@ -65,12 +65,15 @@ mysql> source /content/retail_db.sql
 ```
 $ mvn archetype:generate
 ```
-upload new nar files
+
+Upload new nar files
 ```
-$ docker exec -it course_nifi_1 ln -s /content/lib /opt/nifi/nifi-current/lib/custom
 $ docker cp nifi-custom-nar/target/nifi-custom-nar-1.0-SNAPSHOT.nar ${nifi_docker_instance_name}:/opt/nifi/nifi-current/lib/nifi-custom-nar-1.0-SNAPSHOT.nar
 ```
-restart nifi docker instance
+Note: 
+starting with NiFi 1.9.0 allows live reloading for nars from $NIFI_HOME/extensions directory (in _config/nifi.properties_ there is now a _nifi.nar.library.autoload.directory=./extensions_)
+
+Restart nifi docker instance
 ```
 $ docker-compose restart nifi 
 ```
