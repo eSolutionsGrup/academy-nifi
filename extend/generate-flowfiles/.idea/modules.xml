@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/generate-flowfiles.iml" filepath="$PROJECT_DIR$/generate-flowfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-custom-nar/nifi-custom-nar.iml" filepath="$PROJECT_DIR$/nifi-custom-nar/nifi-custom-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-custom-processors/nifi-custom-processors.iml" filepath="$PROJECT_DIR$/nifi-custom-processors/nifi-custom-processors.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3ec596d-af94-4477-9f50-961f4764111f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../docker-compose.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1flv5Q4U6Ef3rPOX7AiVMuWRkCw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GenerateFlowFilesTest.testProcessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nifi-custom-processors" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.neghina.nifi.processors.custom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.neghina.nifi.processors.custom" />
+      <option name="MAIN_CLASS_NAME" value="ro.neghina.nifi.processors.custom.GenerateFlowFilesTest" />
+      <option name="METHOD_NAME" value="testProcessor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GenerateFlowFilesTest.testProcessor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3ec596d-af94-4477-9f50-961f4764111f" name="Default Changelist" comment="" />
+      <created>1596805309847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596805309847</updated>
+      <workItem from="1596805314776" duration="9000" />
+      <workItem from="1596805328952" duration="17000" />
+      <workItem from="1596805361462" duration="1344000" />
+      <workItem from="1596806799016" duration="4716000" />
+      <workItem from="1596814692422" duration="3347000" />
+      <workItem from="1596865739317" duration="2453000" />
+      <workItem from="1597041773436" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="1140" width="713" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596883218220">
+      <screen x="0" y="768" width="2048" height="1152" />
+    </state>
+    <state x="662" y="1140" width="713" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.768.2048.1152/385.0.1360.768@0.768.2048.1152" timestamp="1596883218220" />
+    <state x="649" y="25" width="739" height="1085" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596805489380">
+      <screen x="0" y="25" width="2048" height="1085" />
+    </state>
+    <state x="649" y="25" width="739" height="1085" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.2048.1085@0.25.2048.1085" timestamp="1596805489380" />
+    <state x="594" y="139" width="849" height="864" key="CommitChangelistDialog2" timestamp="1596817982940">
+      <screen x="0" y="25" width="2048" height="1085" />
+    </state>
+    <state x="594" y="139" width="849" height="864" key="CommitChangelistDialog2/0.25.2048.1085@0.25.2048.1085" timestamp="1596817982940" />
+    <state width="2004" height="287" key="GridCell.Tab.0.bottom" timestamp="1596810487181">
+      <screen x="0" y="25" width="2048" height="1085" />
+    </state>
+    <state width="2004" height="287" key="GridCell.Tab.0.bottom/0.25.2048.1085@0.25.2048.1085" timestamp="1596810487181" />
+    <state width="2004" height="287" key="GridCell.Tab.0.center" timestamp="1596810487180">
+      <screen x="0" y="25" width="2048" height="1085" />
+    </state>
+    <state width="2004" height="287" key="GridCell.Tab.0.center/0.25.2048.1085@0.25.2048.1085" timestamp="1596810487180" />
+    <state width="2004" height="287" key="GridCell.Tab.0.left" timestamp="1596810487180">
+      <screen x="0" y="25" width="2048" height="1085" />
+    </state>
+    <state width="2004" height="287" key="GridCell.Tab.0.left/0.25.2048.1085@0.25.2048.1085" timestamp="1596810487180" />
+    <state width="2004" height="287" key="GridCell.Tab.0.right" timestamp="1596810487180">
+      <screen x="0" y="25" width="2048" height="1085" />
+    </state>
+    <state width="2004" height="287" key="GridCell.Tab.0.right/0.25.2048.1085@0.25.2048.1085" timestamp="1596810487180" />
+  </component>
+</project>
